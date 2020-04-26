@@ -11,4 +11,4 @@
 Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat design!
 
 Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
-Also also see kacz@kaczmarowski.com
+Also see kacz@kaczmarowski.com
